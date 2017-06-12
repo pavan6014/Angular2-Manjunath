@@ -1,0 +1,17 @@
+/* You can add global styles to this file, and also import other style files */
+@import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
+
+/*app css*/
+/*common css*/
+.p-0{
+    padding: 0px !important;
+}
+.p-t-10{
+    padding-top: 10px !important;
+}
+.p-b-10{
+    padding-bottom: 10px !important;
+}
+/*/common css*/
+
+/*/app css*/
